@@ -6,6 +6,9 @@ The VQA system in this project uses a multimodal approach, combining both image 
 
 The system has been trained on the VQA v2 dataset. The code includes data preprocessing, model training, and evaluation scripts, as well as a demo script for running the VQA system on new images and questions.
 
+## Dataset
+https://visualqa.org/download.html
+
 ## Usage
 To use the VQA system, run the Deployment_Demo.ipynb script
 
